@@ -1,6 +1,6 @@
 # Karpathy's Claude Guide - Gemini Edition
 
-### Inspired by Andrej Karpathy's insights on large language models, this guide provides a framework for interacting with Google's Gemini model to achieve optimal results in software development.
+#### Inspired by Andrej Karpathy's insights on large language models, this guide provides a framework for interacting with Google's Gemini model to achieve optimal results in software development.
 
 ![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
