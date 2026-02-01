@@ -30,3 +30,10 @@ We welcome contributions from the community. If you would like to contribute to 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Karpathys-Claude-Guide&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Karpathys-Claude-Guide&type=date&legend=top-left)
+
+
