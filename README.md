@@ -5,7 +5,7 @@
 ![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-This repository is heavily inspired by the amazing work of [forrestchang](https://github.com/forrestchang) on [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills).
+
 
 The goal of this guide is to provide a set of best practices and principles for developers to follow when using Gemini for code generation, debugging, and other software engineering tasks. By following these guidelines, you can improve the quality of Gemini's output and make your development process more efficient.
 
